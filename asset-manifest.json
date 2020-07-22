@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kimminhow524/movie_app_by_react.git/static/css/main.ebe4100f.chunk.css",
+    "main.js": "/kimminhow524/movie_app_by_react.git/static/js/main.cd93c17d.chunk.js",
+    "main.js.map": "/kimminhow524/movie_app_by_react.git/static/js/main.cd93c17d.chunk.js.map",
+    "runtime-main.js": "/kimminhow524/movie_app_by_react.git/static/js/runtime-main.5cb7f9ce.js",
+    "runtime-main.js.map": "/kimminhow524/movie_app_by_react.git/static/js/runtime-main.5cb7f9ce.js.map",
+    "static/js/2.6760420d.chunk.js": "/kimminhow524/movie_app_by_react.git/static/js/2.6760420d.chunk.js",
+    "static/js/2.6760420d.chunk.js.map": "/kimminhow524/movie_app_by_react.git/static/js/2.6760420d.chunk.js.map",
+    "index.html": "/kimminhow524/movie_app_by_react.git/index.html",
+    "precache-manifest.64131aff2f22d9f299cb6ccce54c97f3.js": "/kimminhow524/movie_app_by_react.git/precache-manifest.64131aff2f22d9f299cb6ccce54c97f3.js",
+    "service-worker.js": "/kimminhow524/movie_app_by_react.git/service-worker.js",
+    "static/css/main.ebe4100f.chunk.css.map": "/kimminhow524/movie_app_by_react.git/static/css/main.ebe4100f.chunk.css.map",
+    "static/js/2.6760420d.chunk.js.LICENSE.txt": "/kimminhow524/movie_app_by_react.git/static/js/2.6760420d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb7f9ce.js",
+    "static/js/2.6760420d.chunk.js",
+    "static/css/main.ebe4100f.chunk.css",
+    "static/js/main.cd93c17d.chunk.js"
+  ]
+}
